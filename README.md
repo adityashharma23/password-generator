@@ -4,17 +4,11 @@ Thanks! Here's an even simpler README tailored specifically for your **HTML-only
 
 # 🔐 Simple Password Generator (HTML Only)
 
-This is a super simple password generator built using **only HTML with inline JavaScript**. Just one button: click to generate and copy a random password.
+This is a super simple password generator built using **only HTML**. Just one button: click to generate and copy a random password.
 
 <img width="571" height="488" alt="image" src="https://github.com/user-attachments/assets/b28d3c5a-753d-4858-bb00-fadbebf87d53" />
 Password Generator
 
-## 💡 Features
-
-* Single HTML file
-* One-click **Generate Password**
-* Password is shown and copied to clipboard automatically
-* No external files needed
 
 ## 📄 How to Use
 
@@ -26,12 +20,8 @@ Password Generator
 
 ```
 password-generator/
-└── index.html
+└── file.html
 ```
-
-## ⚙️ Technologies
-
-* Pure HTML with inline JavaScript
 
 ## 📜 License
 
